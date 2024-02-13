@@ -1,7 +1,7 @@
 ### Ciao|Hello 👋
 
 Pythonist, expert in computer vision and nlp applications. 
-- 🔵 Running an AI research lab Augmenting Human Intelligence [AHI](https://ahilab.co/)
+- 🔵 Building a native ads network for AI-generated content [AHI](https://ahilab.co/)
 
 
 
