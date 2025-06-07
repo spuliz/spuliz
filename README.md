@@ -1,8 +1,5 @@
 ### Ciao|Hello 👋
 
-Pythonist, expert in computer vision and nlp applications. 
-- 🔵 Building a native ads network for AI-generated content [AHI](https://ahilab.co/)
-
-
-
+Love building products with Typescript and ML pipelines with Python.
+My portfolio: https://spuliz.carrd.co/
 
